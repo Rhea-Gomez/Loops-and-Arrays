@@ -1,0 +1,14 @@
+D:\Training\Assignments\ArrayTest\ArrayTest\bin\Debug\net8.0\ArrayTest.exe
+D:\Training\Assignments\ArrayTest\ArrayTest\bin\Debug\net8.0\ArrayTest.deps.json
+D:\Training\Assignments\ArrayTest\ArrayTest\bin\Debug\net8.0\ArrayTest.runtimeconfig.json
+D:\Training\Assignments\ArrayTest\ArrayTest\bin\Debug\net8.0\ArrayTest.dll
+D:\Training\Assignments\ArrayTest\ArrayTest\bin\Debug\net8.0\ArrayTest.pdb
+D:\Training\Assignments\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.AssemblyInfoInputs.cache
+D:\Training\Assignments\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.AssemblyInfo.cs
+D:\Training\Assignments\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.dll
+D:\Training\Assignments\ArrayTest\ArrayTest\obj\Debug\net8.0\refint\ArrayTest.dll
+D:\Training\Assignments\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.pdb
+D:\Training\Assignments\ArrayTest\ArrayTest\obj\Debug\net8.0\ArrayTest.genruntimeconfig.cache
+D:\Training\Assignments\ArrayTest\ArrayTest\obj\Debug\net8.0\ref\ArrayTest.dll
