@@ -1,0 +1,14 @@
+D:\Training\Assignments\LoopTest\LoopTest\obj\Debug\net8.0\LoopTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\LoopTest\LoopTest\obj\Debug\net8.0\LoopTest.AssemblyInfoInputs.cache
+D:\Training\Assignments\LoopTest\LoopTest\obj\Debug\net8.0\LoopTest.AssemblyInfo.cs
+D:\Training\Assignments\LoopTest\LoopTest\obj\Debug\net8.0\LoopTest.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\LoopTest\LoopTest\bin\Debug\net8.0\LoopTest.exe
+D:\Training\Assignments\LoopTest\LoopTest\bin\Debug\net8.0\LoopTest.deps.json
+D:\Training\Assignments\LoopTest\LoopTest\bin\Debug\net8.0\LoopTest.runtimeconfig.json
+D:\Training\Assignments\LoopTest\LoopTest\bin\Debug\net8.0\LoopTest.dll
+D:\Training\Assignments\LoopTest\LoopTest\bin\Debug\net8.0\LoopTest.pdb
+D:\Training\Assignments\LoopTest\LoopTest\obj\Debug\net8.0\LoopTest.dll
+D:\Training\Assignments\LoopTest\LoopTest\obj\Debug\net8.0\refint\LoopTest.dll
+D:\Training\Assignments\LoopTest\LoopTest\obj\Debug\net8.0\LoopTest.pdb
+D:\Training\Assignments\LoopTest\LoopTest\obj\Debug\net8.0\LoopTest.genruntimeconfig.cache
+D:\Training\Assignments\LoopTest\LoopTest\obj\Debug\net8.0\ref\LoopTest.dll
